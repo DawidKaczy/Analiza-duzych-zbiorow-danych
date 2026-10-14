@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+
+# Duże zbiory danych (ok. 5 GB) — poza repozytorium.
+*.parquet
+lab_01/instagram.csv
+lab_01/zamowienia_expanded.csv
+lab_01/csv_parts/*.csv
+lab_01/data/*.csv
