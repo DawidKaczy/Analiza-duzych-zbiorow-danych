@@ -8,6 +8,7 @@ Materiały z laboratoriów: notebooki, skrypty i małe pliki przykładowe.
 
 - `lab_01` — wczytywanie i dzielenie dużych plików (pandas, multiprocessing, filesplit)
 - `lab_02` — wprowadzenie do Daska
+- `lab_03` — Dask bags, delayed i futures oraz lokalny klaster
 
 ## Środowisko
 
